@@ -1,4 +1,4 @@
-# Student Management System (Java GUI)
+
 
 ## Project Description
 
